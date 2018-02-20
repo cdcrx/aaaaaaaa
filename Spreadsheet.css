@@ -1,1 +1,64 @@
 
+        body  {
+    background: url("http://4kpapers.com/assets/2014/08/07/dark-incense-smoke-wallpaper.jpg") no-repeat top center fixed;
+    background-size: cover;
+    margin:  0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+        .button {
+    background-color: #80d4ff; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -o-tansition-duration: 0.3s;
+    -ms-tansition-duration: 0.3s;
+    -moz-tansition-duration: 0.3s;
+    -webkit-tansition-duration: 0.3s;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+        
+        
+        
+        
+        .button1:hover
+        {
+         background-hover: #1ab2ff;
+         color: black;
+         border-radius: 4px;        
+        
+        }
+       ul { 
+    align: left;
+    list-style-type: none;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 16px;
+    padding: 0;
+    overflow: hidden;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li {
+  float: center;
+}
+       div
+        {
+          margin-left: 350px;
+          margin-right: 75px;
+          font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+          font-size: 20px;
+          
+        }
